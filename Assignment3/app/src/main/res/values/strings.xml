@@ -1,0 +1,23 @@
+<!--Regina Sanchez-->
+<!--OSU-->
+<!--CS 492-->
+
+<!--used this for the course names-->
+<!--    https://catalog.oregonstate.edu/courses/cs/-->
+
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="my_name">Regina Sanchez</string>
+    <string name="title161">Introduction to Computer Science I</string>
+    <string name="title162">Introduction to Computer Science II</string>
+    <string name="title225">Discrete Structures in Computer Science</string>
+    <string name="title261">Data Structures</string>
+    <string name="title271">Computer Architecture and Assembly Language</string>
+    <string name="title290">Web Development</string>
+    <string name="title325">Analysis of Algorithms</string>
+    <string name="title340">Introduction to Databases</string>
+    <string name="title344">Operating Systems I</string>
+    <string name="title361">Software Engineering I</string>
+    <string name="title362">Software Engineering II</string>
+    <string name="title467">Online Capstone Project</string>
+</resources>

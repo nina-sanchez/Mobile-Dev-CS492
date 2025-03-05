@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Tulum</string>
+
+    <!--    categories -->
+    <string name="category_1">Beach Clubs</string>
+    <string name="category_2">Restaurants</string>
+    <string name="category_3">Cenotes</string>
+
+    <!--    beach clubs -->
+    <string name="Niken_name">Niken</string>
+    <string name="Niken_address">Carr. Tulum-Boca Paila Km 8.47, Zona Hotelera Tulum, 77760 Tulum, Q.R</string>
+    <string name="Niken_description">Vibrant beach club with a great menu, drinks, and more at a great price</string>
+    <string name="Lula_name">Lula</string>
+    <string name="Lula_address">Carr. Tulum-Boca Paila km 8.1, Tulum Beach, 77760 Tulum, Q.R.</string>
+    <string name="Lula_description">A laid back spot for chilling by the beach with a delicious menu</string>
+    <string name="Chiringuito_name">Chiringuito</string>
+    <string name="Chiringuito_address">Carr. Tulum-Boca Paila 9-3, Tulum Beach, Zona Hotelera, 77728 Boca Paila, Q.R.</string>
+    <string name="Chiringuito_description">Up scale beach club with incredible food and kiteboarding lessons!</string>
+    <string name="Vagalume_name">Vagalume</string>
+    <string name="Vagalume_address">Supermanzana QROO 15, Tulum Beach, 77776 Tulum, Quintana Roo</string>
+    <string name="Vagalume_description">A chic beach club with luxurious cabanas and picturesque art</string>
+
+    <!--    restaurants -->
+    <string name="ukami_name">Ukami</string>
+    <string name="ukami_address">C. Asunción 16, La Veleta, 77760 Tulum, Q.R.</string>
+    <string name="ukami_description">Incredible sushi, Japanese x Mexican fusion, must try</string>
+    <string name="negra_tomasa_name">La Negra Tomasa</string>
+    <string name="negra_tomasa_address">Andromeda Ote 14, Tulum Centro, 77760 Tulum, Q.R.</string>
+    <string name="negra_tomasa_description">Locals favorite seafood restaurant. Beautiful loft style restuarant, must try a tostada.</string>
+    <string name="casa_jaguar_name">Casa Jaguar</string>
+    <string name="casa_jaguar_address">KM 7.5, Av. Boca Paila, 77760 Tulum, Q.R.</string>
+    <string name="casa_jaguar_description">Upscale restuarant, perfectly dimmed, with the jungle feel. Perfect for date night or any celebration</string>
+    <string name="il_bacaro_name">il bacaro</string>
+    <string name="il_bacaro_address">C. 7 Sur, La Veleta, 77760 Tulum, Q.R.</string>
+    <string name="il_bacaro_description">Beatiful atmosphere with tile, lighting, and plants. Incredible pizza and pasta, must try both!</string>
+
+    <!--    cenotes -->
+    <string name="atik_name">Cenote Atik</string>
+    <string name="atik_address">7FQV+3H, 77797 Rancho Viejo, Q.R.</string>
+    <string name="atik_description">A stunning, crystal-clear freshwater sinkhole surrounded by lush jungle, offering a tranquil spot for swimming and exploration</string>
+    <string name="dos_ojos_name">Cenote Dos Ojos</string>
+    <string name="dos_ojos_address">77774 Quintana Roo</string>
+    <string name="dos_ojos_description">a famous, breathtaking underwater cave system with two connected sinkholes, known for its crystal-clear waters and exceptional snorkeling and diving opportunities</string>
+    <string name="calavera_name">Cenote Calavera</string>
+    <string name="calavera_address">Carretera Tulum, Av. Coba Km 1.7, 77796 Tulum, Q.R.</string>
+    <string name="calavera_description">unique, open air cenote with a striking skull-shaped entrance, offering an adventurous spot for cliff jumping and swimming in its refreshing waters</string>
+    <string name="vesika_name">Cenote Vesica</string>
+    <string name="vesika_address">PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.</string>
+    <string name="vesika_description">Serene and picturesque cenote, featuring crystal-clear waters surrounded by rocky walls and lush greenery, making it a perfect spot for swimming and relaxation</string>
+    <string name="back_button">Back</string>
+
+</resources>

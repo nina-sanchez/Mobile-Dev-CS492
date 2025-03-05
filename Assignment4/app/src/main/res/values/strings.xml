@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+
+    <!-- Category names -->
+    <string name="beach_clubs_category">Beach Clubs</string>
+    <string name="restaurants_category">Restaurants</string>
+    <string name="cenotes_category">Cenotes</string>
+
+    <!-- Beach Clubs -->
+    <string name="niken_name">Niken</string>
+    <string name="niken_description">A relaxing beach club with great food and views.</string>
+    <string name="niken_address">123 Beach Road, Tulum</string>
+
+    <string name="lula_name">Lula</string>
+    <string name="lula_description">An exclusive spot for sunbathing and cocktails.</string>
+    <string name="lula_address">456 Ocean Blvd, Tulum</string>
+
+    <string name="chiringuito_name">Chiringuito</string>
+    <string name="chiringuito_description">Enjoy a vibrant atmosphere and beach parties.</string>
+    <string name="chiringuito_address">789 Sunset Ave, Tulum</string>
+
+    <string name="vagalume_name">Vagalume</string>
+    <string name="vagalume_description">A peaceful retreat with spa services and private cabanas.</string>
+    <string name="vagalume_address">321 Seaside Drive, Tulum</string>
+
+    <!-- Restaurants -->
+    <string name="ukami_name">Ukami</string>
+    <string name="ukami_description">A fine-dining spot with a fusion of local and international flavors.</string>
+    <string name="ukami_address">101 Food St, Tulum</string>
+
+    <string name="negra_tomasa_name">La Negra Tomasa</string>
+    <string name="negra_tomasa_description">Great for casual meals with fresh seafood and local ingredients.</string>
+    <string name="negra_tomasa_address">202 Gourmet Rd, Tulum</string>
+
+    <string name="il_bacaro_name">il bacaro</string>
+    <string name="il_bacaro_description">A cozy bistro offering an extensive wine list and tapas.</string>
+    <string name="il_bacaro_address">303 Dining Lane, Tulum</string>
+
+    <string name="casa_jaguar_name">Casa Jaguar</string>
+    <string name="casa_jaguar_description">A trendy spot for brunch and delicious pastries.</string>
+    <string name="casa_jaguar_address">404 Bakery Blvd, Tulum</string>
+
+    <!-- Cenotes -->
+    <string name="atik_name">Cenote Atik</string>
+    <string name="atik_description">A beautiful freshwater cenote perfect for swimming and diving.</string>
+    <string name="atik_address">505 Waterfall Rd, Tulum</string>
+
+    <string name="dos_ojos_name">Dos Ojos</string>
+    <string name="dos_ojos_description">A hidden gem, surrounded by lush greenery and clear waters.</string>
+    <string name="dos_ojos_address">606 Cave St, Tulum</string>
+
+    <string name="calavera_name">Cenote 3</string>
+    <string name="calavera_description">A popular cenote with easy access and crystal-clear water.</string>
+    <string name="calavera_address">707 Oasis Rd, Tulum</string>
+
+    <string name="vesika_name">Cenote 4</string>
+    <string name="vesika_description">An adventurous cenote with diving spots and surrounding trails.</string>
+    <string name="vesika_address">808 River Bend, Tulum</string>
+
+    <!-- Back Button -->
+    <string name="back_button">Back</string>
+
+</resources>
