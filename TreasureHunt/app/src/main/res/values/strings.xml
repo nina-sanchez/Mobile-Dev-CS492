@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TreasureHunt</string>
+
+    <!-- Permission Screen -->
+    <string name="permission_title">Location Permission</string>
+    <string name="permission_description">This app requires location access to track your position.</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="permission_granted_message">Permission granted! Proceeding to game.</string>
+    <string name="permission_denied_message">We need access to your location for the treasure hunt game.</string>
+
+    <!-- Start Screen-->
+    <string name="game_title">Treasure Hunt</string>
+    <string name="game_rules">Welcome to the Treasure Hunt game! Follow these rules</string>
+    <string name="start_button">Start Game</string>
+
+    <!-- Rules-->
+    <string name="title_rule1">Rule 1</string>
+    <string name="title_rule2">Rule 2</string>
+    <string name="title_rule3">Rule 3</string>
+    <string name="title_rule4">Rule 4</string>
+    <string name="title_rule5">Rule 5</string>
+    <string name="title_rule6">Rule 6</string>
+    <string name="title_rule7">Rule 7</string>
+    <string name="title_rule8">Rule 8</string>
+    <string name="description_rule1">Grant the required permissions to play. Location access is needed to verify your position</string>
+    <string name="description_rule2">Read each clue carefully and figure out the target location</string>
+    <string name="description_rule3">Use the Hint button if you need extra help</string>
+    <string name="description_rule4">Read each clue carefully and figure out the target location</string>
+    <string name="description_rule5">When you think you have reached the correct location tap Found It! to check</string>
+    <string name="description_rule6">If you want to exit at any time, press "Quit" to return to the start page. Your progress will not be saved.</string>
+    <string name="description_rule7">Complete all clues to finish the treasure hunt! Your total time will be displayed at the end</string>
+    <string name="description_rule8">Have fun and enjoy the challenge!</string>
+
+    <!-- Clue Found Screen-->
+    <string name="clue_solved">Yay! You solved the clue!</string>
+    <string name="clue_info">More info on the treasure spot: %1$s</string>
+    <string name="con_button">Continue</string>
+
+    <string name="congrats_title">Congrats!</string>
+    <string name="treasure_hunt_message">You successfully finished the treasure hunt!</string>
+</resources>
